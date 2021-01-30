@@ -31,8 +31,8 @@
   font-family: "Georgia", "Tahoma", sans-serif;
   font-size: 22px;
   line-height: 18px;
-  color: #000000;
-  background-color: #dfeddf;
+  color: #ffffff;
+  background-color: #28071a;
 }
 
 .section-title {
@@ -56,7 +56,7 @@ a:focus {
 /* Шапка */
 .page-header {
   margin-bottom: 40px;
-  background-color: #64d9b8;
+  background-color: #520e35;
   box-shadow: 0 2px 2px rgba(0, 0, 0, 0.2);
 }
 
@@ -94,8 +94,8 @@ a:focus {
   border-radius: 2px;
   background-color: transparent;
   cursor: pointer;
-  color: #29ab87;
-  border: 1px solid #29ab87;
+  color: #520e35;
+  border: 1px solid #520e35;
 }
 
 .theme-button::before {
@@ -115,7 +115,7 @@ a:focus {
 .theme-button:focus,
 .theme-button:hover {
   color: #ffffff;
-  background-color: #29ab87;
+  background-color: #520e35;
 }
 .theme-button:focus {
   outline-color: #6dae81;
@@ -201,7 +201,7 @@ a:focus {
   font-size: 16px;
   line-height: 14px;
   color: #ffffff;
-  background-color: #29ab87;
+  background-color: #520e35;
 }
 
 .quotes blockquote::before {
@@ -263,7 +263,7 @@ p.contacts-name {
 /* Подвал */
 .page-footer {
   color: #ffffff;
-  background-color: #29ab87;
+  background-color: #520e35;
 }
 
 .page-footer .container {
@@ -292,21 +292,21 @@ p.contacts-name {
 /* Тёмная тема */
 .dark-theme {
   color: #f2f2f2;
-  background-color: #121910;
+  background-color: #520e35;
 }
 
 .dark-theme .page-header {
-  background-color: #155946;
+  background-color: #28071a;
   box-shadow: 0 2px 2px rgba(0, 0, 0, 0.6);
 }
 
 .dark-theme a {
-  color: #009b76;
+  color: #ffffff;
 }
 
 .dark-theme .theme-button {
-  color: #009b76;
-  border: 1px solid #009b76;
+  color: #28071a;
+  border: 1px solid #28071a;
 }
 
 .dark-theme .theme-button::before {
@@ -315,8 +315,8 @@ p.contacts-name {
 
 .dark-theme .theme-button:focus,
 .dark-theme .theme-button:hover {
-  color: #121910;
-  background-color: #009b76;
+  color: #ffffff;
+  background-color: #28071a;
 }
 
 .dark-theme .theme-button:focus::before,
@@ -326,7 +326,7 @@ p.contacts-name {
 
 .dark-theme .status p,
 .dark-theme .photos figure {
-  background-color: #3b4d2d;
+  background-color: #28071a;
 }
 
 .dark-theme .news time,
@@ -335,19 +335,19 @@ p.contacts-name {
 }
 
 .dark-theme .card {
-  background-color: #16251c;
+  background-color: #520e35;
   box-shadow: 0 1px 4px rgba(0, 0, 0, 0.6);
 }
 
 .dark-theme .quotes blockquote {
-  color: #121910;
-  background-color: #009b76;
+  color: #ffffff;
+  background-color: #28071a;
 }
 
 .dark-theme .quotes blockquote::before {
 }
 
 .dark-theme .page-footer {
-  background-color: #155946;
+  background-color: #28071a;
   color: #f2f2f2;
 }
